@@ -1,4 +1,8 @@
-﻿# Towards Eastin-Knill Theorem
+﻿---
+layout: post
+mathjax: true
+---
+# Towards Eastin-Knill Theorem
 
 Upon further thought I came to realise, it isn't a good idea to go on with the proof without setting up the problem or explaining the relevance of it. Hence, this post $\exists$. 
 
