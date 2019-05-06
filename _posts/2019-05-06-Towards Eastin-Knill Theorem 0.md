@@ -9,7 +9,7 @@ Upon further thought I came to realise, it isn't a good idea to go on with the p
 ## Coding
 
 All physical (both c- and qu-)bits are not totally resistant to errors caused by physical "accidents" . Eg: Bits on a CD suffer random damage from dust and scratches, bits on a hard disk can be damaged by stray magnetic fields and qubits suffer from "decoherence" at any finite temperature. 
-The errors need to be protected from, and in order to do so, we convert the bits into a **code** and transmitted, stored and computed with In classical systems the simplest code is called repetition code, in which the given bit is repeated n-times i.e. $1  \mapsto 111$ and $0\mapsto 000$. This code is decoded by majority, i.e. if $\#1> \#0$ we consider it to be $1$ and $0$ otherwise. This gets down the error rates from $p$ for single bit to $3p^2(1-p)+p^3$. 
+The errors need to be protected from, and in order to do so, we convert the bits into a **code** and transmitted, stored and computed with In classical systems the simplest code is called repetition code, in which the given bit is repeated n-times i.e. $1  \mapsto 111$ and $0\mapsto 000$. This code is decoded by majority, i.e. if #$1>$#$0$ we consider it to be $1$ and $0$ otherwise. This gets down the error rates from $p$ for single bit to $3p^2(1-p)+p^3$. 
 There exist such techniques for qubits as well and will be discussed in detail in the **Part2** of this series. 
 
 ## Gates
