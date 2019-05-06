@@ -6,7 +6,7 @@ title: invariantfields
 
 # About. 
 
-I am a masters student in Physics at University of Cologne. This is a space to share my ideas. 
+I am a masters student in Physics at University of Cologne. This is a space to share my ideas and works. 
 
 Contact: nagateja95_at_gmail.com
 
