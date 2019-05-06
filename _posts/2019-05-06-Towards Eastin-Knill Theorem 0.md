@@ -28,7 +28,7 @@ Such an application of gates is termed as **Transversal gates**.
 Though the above operation is valid for universal gates on classical bits, it wasn't completely proved or disproved to be valid for a long time for quantum bits and systems. This finally was proved to be impossible to do for quantum systems by Eastin and Knill in their aptly titled paper [Restrictions on Transversal Encoded Quantum Gate Sets](https://arxiv.org/abs/0811.4262). or rephrasing the central theorem of the paper 
 >**It is impossible to make a transversal universal gate set for a quantum code.**
 
-This comes with several caveats which would be discussed in greater detail in **Part-3** of this series, where I would also explain my contribution to generalise this for subsystem codes(to be discussed in **Part-2**)   
+This comes with several caveats which would be discussed in greater detail in **Part3** of this series, where I would also explain my contribution to generalise this for subsystem codes(to be discussed in **Part2**)   
 
 ## References
 [1] Bryan Eastin,Emanuel Knill. [Restrictions on Transversal Encoded Quantum Gate Sets](https://arxiv.org/abs/0811.4262)
