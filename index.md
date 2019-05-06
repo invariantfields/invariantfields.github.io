@@ -21,4 +21,4 @@ Contact: nagateja95_at_gmail.com
 
 ## To-Do
 
-This blog is always under consturction. Incase of any suggestions please drop me a mail. 
+This blog is always under consturction. Incase of suggestions please drop me a mail. 
